@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5F2AF647-41D1-481D-B1EE-A9D33DD4617F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PainterDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D67535EE-CEEB-4F64-92B4-912710B2DB90</key>
+		<string>https://github.com/LittleDoorBoard/PainterLiftMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PainterDemo/PainterDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D67535EE-CEEB-4F64-92B4-912710B2DB90</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LittleDoorBoard/PainterLiftMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D67535EE-CEEB-4F64-92B4-912710B2DB90</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D67535EE-CEEB-4F64-92B4-912710B2DB90</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LiftMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
