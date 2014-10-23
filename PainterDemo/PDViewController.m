@@ -183,7 +183,7 @@ int port = 8000;
         [scanner scanString:@", " intoString:nil];
         [scanner scanFloat:&pin];
         
-        
+        pin = 0;
         x = fx;
         y = fy;
         
@@ -211,7 +211,7 @@ int port = 8000;
         }
         
         
-        
+        /*
         if(pin > 0.8 && pin <= 1){
             [self performSelectorOnMainThread:@selector(moveImg) withObject:nil waitUntilDone:YES];
         }
@@ -222,6 +222,7 @@ int port = 8000;
             pre_py = py;
         if(pre_pz != pz)
             pre_pz = pz;
+         */
 
     }
 }
@@ -725,7 +726,7 @@ int port = 8000;
 
 
 #pragma mark - pinch
--(void) moveImg
+/*-(void) moveImg
 {
     [UIView animateWithDuration:0.5f
                      animations:^{
@@ -752,6 +753,7 @@ int port = 8000;
     
 
 }
+ */
 
 //- (UIView *)viewForZoomingInScrollView:(UIScrollView *)_scrollView {
 //    return self.mainImage;
